@@ -1,1 +1,1 @@
-App de preguntas y respuestas 
+App de preguntas y respuestas usando React
